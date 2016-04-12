@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Living Insights</title>
+    <description>where real insights live</description>
+    <link>http://Nilehq.com/</link>
+    <atom:link href="http://Nilehq.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 12 Apr 2016 14:17:13 +0100</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 14:17:13 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Needs Analysis, Phone interviews - trace</title>
+        <description>&lt;p&gt;Testing dates: 21st and 24th of March 2016
+Testing location: RBS Premier Place in London 
+60 minute interview sessions&lt;/p&gt;
+
+&lt;p&gt;Participants
+11 participants in total (5 on 21st and 6 on 24th of April).
+RBS or NatWest customers.
+Bankline users.
+Doer Personas (admin support) who perform at least two of the following tasks: 
+International and FX payments
+Bulk payments
+Importing payments (all types)
+Use templates
+Key objectives
+The sessions focused on exploring two versions of the Bankline prototype, specifically seeking to understand the following:
+How users navigate to payments - clicking from within the dashboard or via the top nav?
+How users start their journey and whether site content impacts their focus?
+What are customers’ labelling expectations?
+How users interact with the new ‘Payees’ functionality?
+How useful users find the ‘Creation of templates’ feature?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2016 11:11:10 +0100</pubDate>
+        <link>http://Nilehq.com/trace/2016/04/12/trace.html</link>
+        <guid isPermaLink="true">http://Nilehq.com/trace/2016/04/12/trace.html</guid>
+        
+        
+        <category>trace</category>
+        
+      </item>
+    
+      <item>
+        <title>Needs Analysis, Phone interviews - report</title>
+        <description>&lt;p&gt;This is a brilliant report&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Apr 2016 11:11:10 +0100</pubDate>
+        <link>http://Nilehq.com/report/2016/04/12/report.html</link>
+        <guid isPermaLink="true">http://Nilehq.com/report/2016/04/12/report.html</guid>
+        
+        
+        <category>report</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Living insights!</title>
+        <description>&lt;p&gt;Hi Everyone:-)&lt;/p&gt;
+
+&lt;p&gt;Couple of things have happened over the last few weeks and I wanted to suggest an approach to client comms about our “Living Insights” service.&lt;/p&gt;
+
+&lt;p&gt;Last week we presented Gavin’s splendid video to RBS (I will GDrive a link so everyone can hear the key messages). On the day, it was seen by Kate Cox and Brian Cooper but we’ve shared the asset with them and it’s possible it may circulate or at least be mentioned internally at RBS.&lt;/p&gt;
+
+&lt;p&gt;This has some implications. Most urgently, it means our DRU’s knowledge management(KM) product, the “Living Insights platform” is no longer a hazy future vision but is now a tangible asset. Right now.&lt;/p&gt;
+
+&lt;p&gt;If you are talking to RBS this week about testing and research you need to be ready to mention or answer questions about our public beta, what RBS needs to do to reach Living-Insights-readiness and how the work you are quoting for will inform or benefit from RBS’s participation in our public beta.&lt;/p&gt;
+
+&lt;p&gt;Let’s agree how we’re going to describe that when we speak with our customers. Let’s say this:
+The service is under rapid development and is currently “in private Beta”
+Customers are not locked in. They can access and export their raw data files at any time
+As part of our private beta, we are working with multiple customers but the data sources and outputs are all private and completely segregated 
+In future releases Nile will incorporate aggregated benchmarking data but this will NOT happen until agreement is reached with all customers around IP ownership
+All project and service outputs are being delivered to customers off-line in flat-file format
+The publicly available service will be cloud-based. Currently all data and reports are managed privately using processes and security model that are entirely compliant with existing client MSAs
+We hope our customers will join us on the journey and will work with us to ensure all IP ownership, private data, business competition drivers and performance-related agreements and metrics are completely aligned with their needs
+Today, we are working with our customers to adjust their research engagement processes to make them “Living-Insights-ready” (this is a bit like a TV being “HD-Ready”)
+“Cumulative value” is a central theme of the service. It explains why so many of our customers are asking for this service
+Even though we have worked with you for a long time, your research was not being organised and delivered in a Living-Insights-ready format for two reasons a) We have always sought to be competitive and the extra cost of this work would have priced us out of the market and b) Achieving readiness implies a certain commitment and organisation on the part of the client and you have not retained us in a way that would have allowed us to deliver cumulative value 
+The pricing model for the service is being reviewed and will be developed in partnership with private beta participants&lt;/p&gt;
+
+&lt;p&gt;Internally, what is our roadmap? Where are we today and what do tomorrow and the day after look like?&lt;/p&gt;
+
+&lt;p&gt;Right this second, Living Insights is:
+A crack team of dedicated and experienced smart people
+A new approach to planning and executing tests and enquiries
+A new approach to organising and sharing research data
+A new format for reporting back to customers
+A new commitment to RBS that we will invest consultant time in optimising research activities for RBS to ensure their projects are “Living-Insights-ready”. There will be a cost associated with that extra effort but this is currently TBC and will be decided by Keely and Sarah
+A spreadsheet
+Dedicated private data storage area on Nile servers (with no SLA in place, we cannot make 99.9% availability-type claims, at this&lt;/p&gt;
+
+&lt;p&gt;In the next two months, Living Insights will become:
+Reports published in the form of web-pages instead of Keynotes. These will initially be very simple and will not be hosted online as our security model and customer MSAs will need to be adjusted and agreed with RBS to allow the cloud-based service to start
+Data files delivered in the same static file bundle. These data files will grow over time as RBS commissions more work, eventually growing into a human-readable relational database made up of several .csv files which will form the backbone of the service and provide reassurance that the customer’s investment is never lost but instead continues to grow fruitfully under the skilful watch of Nile’s best thinkers and doers.&lt;/p&gt;
+
+&lt;p&gt;In future phase Living Insights will be fully cloud-based and integrated with more and more relevant tools. This will include: 
+Nile’s “Real People” Panel
+Test recruitment and execution
+Mobile execution and management (the Van(tm))
+Quant data dashboard a la Watson (using open source software to drive)
+many others!&lt;/p&gt;
+
+&lt;p&gt;Thanks for listening:-)&lt;/p&gt;
+
+&lt;p&gt;Dug&lt;/p&gt;
+
+&lt;p&gt;Additionally some instructions for Jekyll&lt;/p&gt;
+
+&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Apr 2016 11:10:10 +0100</pubDate>
+        <link>http://Nilehq.com/update/2016/04/12/welcome-to-living-insights.html</link>
+        <guid isPermaLink="true">http://Nilehq.com/update/2016/04/12/welcome-to-living-insights.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Instructions for Jekyll</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Apr 2016 11:10:10 +0100</pubDate>
+        <link>http://Nilehq.com/update/2016/04/12/on-Jekyll.html</link>
+        <guid isPermaLink="true">http://Nilehq.com/update/2016/04/12/on-Jekyll.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>CPB Landing Page User Testing - Summary</title>
+        <description>&lt;h1 id=&quot;key-findings-positives&quot;&gt;Key findings: Positives&lt;/h1&gt;
+
+&lt;p&gt;&lt;img style=&quot;max-width: 100px;&quot; src=&quot;/images/positive-smiley.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;all-participants-liked-customisation-option-and-would-make-it-their-own&quot;&gt;All participants liked customisation option and would make it their own&lt;/h2&gt;
+
+&lt;p&gt;After trying the prototype and being guided through options to
+customise their dashboard, participants saw the value in customisation
+and would like to use it in their day-to-day work. They would only have
+what they needed on their dashboard and wanted to possibility to
+customise the panels even further.&lt;/p&gt;
+
+&lt;h2 id=&quot;notification-and-your-accounts-panels-was-liked-by-all-participants&quot;&gt;‘Notification’ and ‘Your accounts’ panels was liked by all participants&lt;/h2&gt;
+
+&lt;p&gt;When asked what panels participants would have on their
+dashboard, all participants wanted ‘Your Accounts’ as long a they
+could customise it to show what they wanted. The ‘Notification’
+panel on top of the page was considered helpful by all participants
+and only one participant wanted the option to close it from the
+dashboard.&lt;/p&gt;
+
+&lt;h2 id=&quot;help--support-was-found-and-liked-by-all-participants&quot;&gt;‘Help &amp;amp; Support’ was found and liked by all participants&lt;/h2&gt;
+
+&lt;p&gt;All participants was able to complete the task to find general
+information about CHAPS payments in ‘Help &amp;amp; Support’ and
+almost all liked the ability to use web chat if they were not able to
+find the right answer.&lt;/p&gt;
+
+&lt;h2 id=&quot;security-content-were-generally-well-received&quot;&gt;Security content were generally well received&lt;/h2&gt;
+
+&lt;p&gt;All but one participant did not mind seeing the security warning
+after login as long as it was not the same every time they logged
+in. All participants liked the security content at the bottom of
+‘My Dashboard’, but many of them did not like that it was at the
+end of such a long page.&lt;/p&gt;
+
+&lt;h1 id=&quot;key-findings-areas-for-improvement&quot;&gt;Key findings: Areas for improvement&lt;/h1&gt;
+
+&lt;p&gt;&lt;img style=&quot;max-width: 100px;&quot; src=&quot;/images/negative-smiley.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;first-use-screens-intended-message-is-not-understood-or-skipped&quot;&gt;First use screens’ intended message is not understood or skipped&lt;/h2&gt;
+
+&lt;p&gt;Half of the participants wanted to skip the first use screens that appears
+after logging in. These participants either only open their bank account
+when they want to complete a task and want to complete this first or
+they see what the screens are overplayed and want to see this content
+instead.&lt;/p&gt;
+
+&lt;p&gt;Many participants did not remember reading about ‘More Bankline’ in the
+first use screens, which meant that only one of them was able to guess
+what the title meant in the navigation bar.&lt;/p&gt;
+
+&lt;h2 id=&quot;there-is-too-much-information-on-my-dashboard-when-opening-for-the-first-time&quot;&gt;There is too much information on ‘My Dashboard’ when opening for the first time&lt;/h2&gt;
+
+&lt;p&gt;When first arriving on ‘My Dashboard’, all participants thought there was
+too much information and most participants said that they were unlikely
+to see the content at the bottom of the page considering how much they
+had to scroll. This gives a bad first impression to the content and needs to
+be rethought - if it is not there is a risk of customers just navigating to
+where they can complete a task and not use the dashboard.&lt;/p&gt;
+
+&lt;h2 id=&quot;more-bankline-page-is-hard-to-understand&quot;&gt;More Bankline page is hard to understand&lt;/h2&gt;
+
+&lt;p&gt;Although participants are introduced to ‘More Bankline’ on the First Use
+Screen, only one of them is able to explain what they will be finding here
+before clicking it. Once participants arrive on the page where they can
+read about what they can do with the original Bankline, all participants
+start to read what is in the screenshot and most participants try to read
+the small text in it, especially the unread messages, and interact with it as
+if it was their original Bankline.
+The button to ‘Open Original Bankline’ takes a lot of time to find and
+participants generally do not know what to expect before clicking it.&lt;/p&gt;
+
+&lt;h2 id=&quot;key-customisation-options-are-not-found&quot;&gt;Key customisation options are not found&lt;/h2&gt;
+
+&lt;p&gt;None of the participants were able to find ‘Add Panels’ on their own after
+trying to close a panel either because of it being too small or they were
+trying to search elsewhere. Only one of the participants was able to move
+panels right away, but none of them found it obvious that this could be
+done. Settings was not always understood as only for the panel.&lt;/p&gt;
+
+&lt;h2 id=&quot;global-search&quot;&gt;Global search&lt;/h2&gt;
+
+&lt;p&gt;All but one participant did not see the search on top of the page and once
+asked about it, all participants expected it to search ‘Help &amp;amp; Support’ or
+similar pages and not be able to search for transactions.&lt;/p&gt;
+
+&lt;h1 id=&quot;general-findings&quot;&gt;General findings&lt;/h1&gt;
+
+&lt;h2 id=&quot;customers-are-logging-in-to-complete-a-task-not-to-try-new-features&quot;&gt;Customers are logging in to complete a task not to try new features&lt;/h2&gt;
+
+&lt;p&gt;All participants said that they only log in to their business banking
+account when they need to complete a task. This means that
+when they are presented with First Use Screens, they are likely to
+press skip. For getting the message of customisation to them,
+these screens are crucial as it is not prominent anywhere else on
+the page. The danger here is that customers will press skip and not
+know they are able to customise their dashboard that all
+participants in the testing found to have too much information.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-panels-asked-for-by-customers&quot;&gt;Other panels asked for by customers&lt;/h2&gt;
+&lt;p&gt;Customers was asked if they wanted any other kind of panels that
+would fit into how they do their day-to-day job. The following was
+suggested:&lt;/p&gt;
+
+&lt;p&gt;• Customised panels without large numbers that other employees could see on their screen
+• Snapshot of the week per account
+• Ability to view one account per panel e.g. ‘Payments awaiting authorisation or release’ for ‘Travel’
+• Credit cards management&lt;/p&gt;
+
+&lt;h2 id=&quot;too-final-wording-used-when-customising-and-the-ability-to-discard-an-action&quot;&gt;Too final wording used when customising and the ability to discard an action&lt;/h2&gt;
+
+&lt;p&gt;When participants are logged into their account, they generally
+fell more aware of not messing things up because of what they
+usually do in this context is very serious e.g. making transactions,
+so an action as “Close” sounds very permanent and not something
+one would press unless you know what it is going to do. This
+should be a general principle for the customisation, so customers
+will fell safe to try customising their dashboard&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Apr 2016 11:10:10 +0100</pubDate>
+        <link>http://Nilehq.com/executive-summaries/2016/04/12/executive-summary-r3.html</link>
+        <guid isPermaLink="true">http://Nilehq.com/executive-summaries/2016/04/12/executive-summary-r3.html</guid>
+        
+        
+        <category>executive-summaries</category>
+        
+      </item>
+    
+      <item>
+        <title>Needs Analysis, Phone interviews - Summary</title>
+        <description>&lt;h1 id=&quot;vision-and-mid-term-goals-depends-mainly-on-companys-lifecycle-growth-vs-maturity&quot;&gt;Vision and mid-term goals depends mainly on company’s lifecycle (growth vs. maturity)&lt;/h1&gt;
+
+&lt;p&gt;Businesses which are looking to grow have well-defined
+goals 3-5 years ahead. Meanwhile, those who want to
+stabilise would rather focus on the quality of service they
+provide.&lt;/p&gt;
+
+&lt;p&gt;Businesses on the lower end of the spectrum (£2-5M)
+seemed to be more receptive to receiving advice while
+more mature businesses weren’t looking help from outside
+sources.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-of-the-goals-were&quot;&gt;Some of the goals were:&lt;/h2&gt;
+&lt;p&gt;• Becoming more independent e.g. move away from dependency on one big client or supplier.
+• Opening new branches or stores.
+• Increasing international trade.&lt;/p&gt;
+
+&lt;h1 id=&quot;most-of-the-companies-miss-good-systems-to-analyse-their-business-better&quot;&gt;Most of the companies miss good systems to analyse their business better&lt;/h1&gt;
+
+&lt;p&gt;Most of the companies rely heavily on Excel reports and accumulated knowledge from their employees. However, all recognise that it is a real issue for their business and they plan to invest in better digital solutions to help themunderstand their business in a more holistic way.&lt;/p&gt;
+
+&lt;p&gt;“No tools, just experienced
+people right now. I’m about to
+implement control structures to
+allow better visibility.”
+- Participant 3&lt;/p&gt;
+
+&lt;p&gt;“One person in the business
+is the Excel wizard. If something
+would happen to him, we wouldn’t
+know what to do.”
+- Participant 2&lt;/p&gt;
+
+&lt;h1 id=&quot;overall-businesses-think-they-dont-have-any-blind-spots-what-not-always-its-true&quot;&gt;Overall, businesses think they don’t have any blind spots what not always it’s true&lt;/h1&gt;
+
+&lt;p&gt;The companies who have a stable customer base and organic growth
+believe that it’s unlikely that anything could affect their business
+e.g. new competition. The economy is the biggest worry for them
+and they are concerned about things such as: recession, political
+changes, etc.&lt;/p&gt;
+
+&lt;p&gt;However, the interviews reveal that actually most of the
+participants’ businesses have some serious issues, i.e. being
+completely dependent on unique aluminium supply in China.
+The blind spot term might be confusing. We should consider to use
+another term such as weakness or worry.&lt;/p&gt;
+
+&lt;p&gt;“If the economy is running well,
+our business runs well.”
+- Participant 5&lt;/p&gt;
+
+&lt;h1 id=&quot;role-of-technology-in-business-is-increasing&quot;&gt;Role of technology in business is increasing&lt;/h1&gt;
+
+&lt;p&gt;Most businesses use SAGE for finances and other specialist
+software. All admit that technology is crucial in their business and they plan
+to invest in it.&lt;/p&gt;
+
+&lt;p&gt;“Tech is absolutely key and
+becoming more and more
+critical everyday… fundamental
+to everything that we do.”
+- Participant 6&lt;/p&gt;
+
+&lt;h1 id=&quot;banks-are-perceived-as-a-facility-rather-than-a-business-partner&quot;&gt;Banks are perceived as a facility rather than a business partner&lt;/h1&gt;
+
+&lt;p&gt;Banks are a convenience for most of the businesses. They are good
+for lending, offering overdraft facilities, etc.&lt;/p&gt;
+
+&lt;p&gt;Customers don’t perceive the bank as experts in their business and
+therefore don’t go to them outside of banking services advice or
+needs.&lt;/p&gt;
+
+&lt;p&gt;“RM rings three times a
+year and asks if we need
+anything, but we don’t. We use it
+mostly as a facility, take money
+in and take it out.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participant 5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“Banks are there to lend you
+money, as long as they can do
+that, they are doing their job.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participant 6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;perception-that-banks-are-not-experts-in-my-business&quot;&gt;Perception that banks are not experts in my business&lt;/h1&gt;
+
+&lt;p&gt;All participants claimed they need very specialised sector
+knowledge such as local market trends or local benchmarking.
+They don’t see the bank as a business advisor outside of their
+financial needs and don’t expect the bank to give them expert
+business advice.&lt;/p&gt;
+
+&lt;p&gt;They expect the bank to understand their business dynamics (e.g.
+cash-flow) and to help them be more efficient with their money.
+For example, suggesting where they should invest their money,
+helping them negotiate better charges or rate deals etc.&lt;/p&gt;
+
+&lt;p&gt;“The banks use
+national data - look at
+things nationally, don’t look at
+things on a local scale. This
+business is difficult and I don’t
+think they are capable of
+specialist information.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participant 5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“I would not look to
+the bank for advice. They
+are a jack of all trades and
+master of none, and bank
+specialists aren’t specialist
+enough to understand
+everybody’s business.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participant 4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;rm-is-not-expected-to-be-an-expert-in-the-business&quot;&gt;RM is not expected to be an expert in the business&lt;/h1&gt;
+
+&lt;p&gt;• An RM is not going to be more experienced or
+knowledgeable than someone who has a run company
+in an area for 30 years - they are not expected to be
+an expert in that business
+• What an RM can provide are connections to experts
+who may be able to help with areas identified by the
+business
+• The RM needs to be informed enough about a
+particular business to have a meaningful conversation
+with their customers to identify potential resources,
+connections, or events that could provide value to
+their customers
+• Customers would find networking events useful to
+have more connections with suppliers or people in
+their industry&lt;/p&gt;
+
+&lt;h1 id=&quot;happy-to-use-an-online-tool-to-get-advice-from-the-bank-but-human-interaction-is-required-as-well&quot;&gt;Happy to use an online tool to get advice from the bank, but human interaction is required as well&lt;/h1&gt;
+
+&lt;p&gt;Despite the fact most of the participants don’t consider their bank
+as advisors to their business, in addition to providing financial
+services, they would be open to exploring a service that would
+provide them with relevant information.&lt;/p&gt;
+
+&lt;p&gt;Participants were keen to talk to any expert from the bank, not only
+their RMs. They recognise their RM might have a very limited.&lt;/p&gt;
+
+&lt;p&gt;“There is so much that is
+online, I would quite like to speak
+to somebody.”
+- Participant 7&lt;/p&gt;
+
+&lt;h1 id=&quot;relationship-with-the-bank-is-perceived-through-experience-they-have-with-their-rms&quot;&gt;Relationship with the bank is perceived through experience they have with their RMs&lt;/h1&gt;
+
+&lt;p&gt;Because RMs are a key touch-point, the overall perception
+businesses have about the bank is influenced by the quality of
+experience they have with RMs.&lt;/p&gt;
+
+&lt;p&gt;Most participants interact with their RM a few times per year.
+Their interactions with them is driven by a specific need or issue
+they need to resolve. However, some participants complained it’s
+hard to establish a close relationship with them because of the
+high turn-over. They wish their RM would be more proactive and
+contact them more.&lt;/p&gt;
+
+&lt;p&gt;The age factor is important and young RMs might be perceived
+as inexperienced.&lt;/p&gt;
+
+&lt;p&gt;There was a positive RM experience when there was a team of
+people who could be contacted to support a business query.&lt;/p&gt;
+
+&lt;p&gt;“20 years ago, you had
+RMs who would come in… they
+would be keen on knowing what the
+business was, they were older
+members. Now what we’re getting is
+people coming in without the lifeskills,
+a much younger generation.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participant 5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“RM should not bother me
+if he has nothing valuable to
+offer. I am not his friend to have
+a chat on how I am doing. I am a
+very busy person.”
+knowledge about their sector/industry.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participant 4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;comms-from-the-bank-are-consider-generic-and-irrelevant&quot;&gt;Comms from the bank are consider generic and irrelevant&lt;/h1&gt;
+
+&lt;p&gt;Most of the participants like the fact the bank send them
+newsletter and updates over email. However, they admit
+to not paying much attention to the information.
+The information sent by the bank is perceived as generic,
+irrelevant, not suitable for their specific business needs.
+“How to push my business forward” email aroused some
+attention - but the content was not meaningful enough to
+those who received it.&lt;/p&gt;
+
+&lt;p&gt;“I can Google that myself.”
+- Participant 8&lt;/p&gt;
+
+&lt;p&gt;“Communication that is
+received over email is generic -
+prize draw for the rugby match,
+budget forecast, telling me how
+to grow my business”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participant 7&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;banks-have-full-disclosure&quot;&gt;Banks have full disclosure&lt;/h1&gt;
+
+&lt;p&gt;All participants claimed they would be happy to provide the
+bank, via an online tool, with any financial information such as
+records, cash-flow, etc.&lt;/p&gt;
+
+&lt;p&gt;They were willing to dedicate some time using an online tool to
+get information that would be of value for their business. The
+more information which customers provide, the more value
+they expect to get out of the information they receive that is
+pertinent to their interest (business, sector, location).&lt;/p&gt;
+
+&lt;p&gt;“They have all our information
+anyway, RBS has all the details
+on our accounts.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participant 5&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“I would be happy to provide
+information with the bank ‘open
+book’.”&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Participant 6&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;other-comments&quot;&gt;Other comments:&lt;/h1&gt;
+
+&lt;p&gt;• RM needs to be able to leverage the banks knowledge
+network to do predictive analysis - knowledge that a
+smaller business won’t be privy to.
+• Information tool will be most useful to business under
+£5 million.
+• RM to introduce business to supply chain alternatives.
+• Businesses would like specific industry knowledge
+specific to business size, e.g. Local business, local
+knowledge.
+• RM to understand how business works. e.g. NHS
+payment is 3 months behind prescription submission.
+• Give Business ideas on how to best diversify. Take on
+mid-term goals and give them case studies on similar
+business growth plan ideas&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2016 11:10:10 +0100</pubDate>
+        <link>http://Nilehq.com/executive-summaries/2016/04/12/executive-summary-r2.html</link>
+        <guid isPermaLink="true">http://Nilehq.com/executive-summaries/2016/04/12/executive-summary-r2.html</guid>
+        
+        
+        <category>executive-summaries</category>
+        
+      </item>
+    
+      <item>
+        <title>Needs Analysis, Phone interviews - observations</title>
+        <description>&lt;p&gt;This is a brilliant observation&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Apr 2016 11:10:10 +0100</pubDate>
+        <link>http://Nilehq.com/update/2016/04/12/observations.html</link>
+        <guid isPermaLink="true">http://Nilehq.com/update/2016/04/12/observations.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Needs Analysis, Phone interviews 2 - Summary</title>
+        <description>&lt;h1 id=&quot;the-add-panels-section-for-customising-the-dashboard-was-missed-by-most-of-the-participants&quot;&gt;The ‘Add panels’ section for customising the dashboard was missed by most of the participants.&lt;/h1&gt;
+
+&lt;p&gt;&lt;img style=&quot;max-width: 100px;&quot; src=&quot;/images/high-priority.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Only two users noticed this feature.&lt;/p&gt;
+
+&lt;p&gt;All participants expected the &lt;a href=&quot;&quot;&gt;dashboard&lt;/a&gt; to be customisable. However, for the majority, it was not clear how they could personalise it for two reasons:
+‘Add panels’ is not prominent enough and the participants didn’t notice the link.&lt;/p&gt;
+
+&lt;p&gt;The name ‘Add panels’ was not an intuitive term for customisation. A few participants commented they were looking for the word ‘customise’.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Consider changing ‘Add panels’ for ‘Customise your dashboard.’&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Consider to make this section visually more obvious and prominent.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;in-the-fx-payments-section-it-was-unclear-which-input-field-to-use-to-enter-the-amount-to-be-paid&quot;&gt;In the FX payments section, it was unclear which input field to use to enter the amount to be paid.&lt;/h1&gt;
+
+&lt;p&gt;&lt;img style=&quot;max-width: 100px;&quot; src=&quot;/images/high-priority.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The position of input boxes was confusing for the majority of participants. 10 out of 11 users intuitively entered the amount in the ‘Amount’ box on the left instead of ‘Payee will receive’ on the right and tried to select the currency rather than the payee amount.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshot1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The prototype tested on the second day, solved this issue by reducing the number of boxes (only ‘Amount payee will receive’ and ‘Currency’) and displaying the “This will cost you approximately” information.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Make it simple to specify the key party / toggle e.g. one participant questioned how it would work if she wanted to pay a specific sterling amount.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-labels-are-not-visually-obvious-enough-so-the-participants-didnt-notice-anything-beyond-the-first-tab&quot;&gt;The labels are not visually obvious enough so the participants didn’t notice anything beyond the first tab.&lt;/h2&gt;
+
+&lt;p&gt;&lt;img style=&quot;max-width: 100px;&quot; src=&quot;/images/high-priority.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All participants started to enter data directly in the first tab ‘Pay a business or person’. In this section, they were asked to input an amount to be paid and select a currency, so they assumed they were in the right place to make an international payment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshot2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recommendation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Make the tabs more visually obvious.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;It needs to be more obvious for participants why they should go to ‘FX payments &amp;amp; transfers’ instead of ‘Pay a business or person’. Consider changing the name of ‘FX payments’ for ‘International payments’ or ‘Payments in another currency’.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 12 Apr 2016 11:10:10 +0100</pubDate>
+        <link>http://Nilehq.com/executive-summaries/2016/04/12/executive-summary.html</link>
+        <guid isPermaLink="true">http://Nilehq.com/executive-summaries/2016/04/12/executive-summary.html</guid>
+        
+        
+        <category>executive-summaries</category>
+        
+      </item>
+    
+  </channel>
+</rss>

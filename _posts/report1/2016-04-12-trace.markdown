@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Needs Analysis, Phone interviews - trace"
+date:   2016-04-12 10:11:10 +0000
+categories: trace
+---
+
+Testing dates: 21st and 24th of March 2016
+Testing location: RBS Premier Place in London 
+60 minute interview sessions
+
+Participants
+11 participants in total (5 on 21st and 6 on 24th of April).
+RBS or NatWest customers.
+Bankline users.
+Doer Personas (admin support) who perform at least two of the following tasks: 
+International and FX payments
+Bulk payments
+Importing payments (all types)
+Use templates
+Key objectives
+The sessions focused on exploring two versions of the Bankline prototype, specifically seeking to understand the following:
+How users navigate to payments - clicking from within the dashboard or via the top nav?
+How users start their journey and whether site content impacts their focus?
+What are customers’ labelling expectations?
+How users interact with the new ‘Payees’ functionality?
+How useful users find the ‘Creation of templates’ feature?
